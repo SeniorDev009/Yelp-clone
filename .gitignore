@@ -7,3 +7,4 @@ node_modules
 **/.env
 #misc
 /database.log
+/gitcommand.log
